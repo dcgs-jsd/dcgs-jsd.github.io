@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I am a secondary school student in the South West of England.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I love photography and art (although I am not the greatest at it :) )
 
 ### Contact me
 
