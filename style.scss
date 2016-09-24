@@ -131,7 +131,7 @@ th, td {
 // Specify the color of the selection
 ::-moz-selection {
   color: #cc0000;
- background: linear-gradient(to right, black, red ); /* Standard syntax */
+ background: linear-gradient(to right, black,#4d0000, black ); /* Standard syntax */
 }
 ::selection {
   color: $black;
