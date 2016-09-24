@@ -17,7 +17,10 @@ html {
   font-size: 100%;
 }
 
-  background: linear-gradient(to bottom right, red, yellow); /* Standard syntax */
+body {
+	background:#1a1a1a;
+  font: 18px/1.4 $helvetica;
+  color: #cc0000;
 }
 
 .container {
