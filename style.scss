@@ -128,18 +128,13 @@ th, td {
 // Specify the color of the selection
 ::-moz-selection {
   color: #cc0000;
- background: linear-gradient(to right, black,#660000, black ); /* Standard syntax */
+ background: linear-gradient(to right #ae7337, #c2803d); /* Standard syntax */
 }
 ::selection {
   color: $black;
   background: #000000;
 }
-p {
-    padding-top: 50px;
-    padding-right: 30px;
-    padding-bottom: 50px;
-    padding-left: 80px;
-}
+
 // Nicolas Gallagher's micro clearfix hack
 // http://nicolasgallagher.com/micro-clearfix-hack/
 .clearfix:before,
