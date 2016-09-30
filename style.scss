@@ -18,7 +18,7 @@ html {
 }
 
 body {
-	 background: linear-gradient(to bottom right,#000000 , #EEE8AA); /* Standard syntax */
+	 background: linear-gradient(to bottom right,#1a1a1a , #cc0000); /* Standard syntax */
 
   font: 18px/1.4 $helvetica;
   color: #7A7A7A;
@@ -128,7 +128,7 @@ th, td {
 // Specify the color of the selection
 ::-moz-selection {
   color: #cc0000;
- background: linear-gradient(to right,#000000, #EEE8AA); /* Standard syntax */
+ background: linear-gradient(to right,#000000, #cc0000); /* Standard syntax */
 }
 ::selection {
   color: $black;
