@@ -134,12 +134,11 @@ th, td {
   color: $black;
   background: #000000;
 }
-#rcorners4 {
-    border-radius: 15px 50px 30px 5px;
-    background: #73AD21;
-    padding: 20px; 
-    width: 200px;
-    height: 150px; 
+p {
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
 }
 // Nicolas Gallagher's micro clearfix hack
 // http://nicolasgallagher.com/micro-clearfix-hack/
