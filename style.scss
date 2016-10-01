@@ -128,7 +128,7 @@ th, td {
 // Specify the color of the selection
 ::-moz-selection {
   color: #36454f;
- background: #36454f; /* Standard syntax */
+ background: #36454f, 1px; /* Standard syntax */
 }
 ::selection {
   color: $blue;
