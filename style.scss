@@ -125,16 +125,14 @@ th, td {
   color: #36454f;
 }
 
-// Specify the color of the selection
 ::-moz-selection {
-  color: #36454f;
- background: #36454f, 1px, bold; /* Standard syntax */
+  color: $black;
+  background: $lightGray;
 }
 ::selection {
-  color: $blue;
-  background: ;
+  color: $black;
+  background: #000000;
 }
-
 // Nicolas Gallagher's micro clearfix hack
 // http://nicolasgallagher.com/micro-clearfix-hack/
 .clearfix:before,
