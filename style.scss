@@ -64,7 +64,7 @@ h3 {
 
 h4 {
   font-size: 18px;
-  color:#cc0000;
+  color:#36454f;
 }
 
 p {
@@ -262,7 +262,7 @@ nav {
 
 .posts > .post {
   padding-bottom: 2em;
-  border-bottom: 1px solid $lightGray;
+  border-bottom: 1px solid #36454f;
 }
 
 .posts > .post:last-child {
@@ -273,7 +273,7 @@ nav {
 .post {
   blockquote {
     margin: 1.8em .8em;
-    border-left: 2px solid $gray;
+    border-left: 2px solid #36454f;
     padding: 0.1em 1em;
     color: $gray;
     font-size: 22px;
@@ -294,7 +294,7 @@ nav {
   margin-top: 50px;
   border-top: 1px solid #ddd;
   border-bottom: 1px solid #ddd;
-  background-color: #cc0000;
+  background-color: #36454f;
 }
 
 footer {
