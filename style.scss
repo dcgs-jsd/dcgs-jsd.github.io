@@ -195,9 +195,9 @@ th, td {
 
 .site-name {
   margin: 0;
-  color: #cc0000;
+  color: #36454f;
   cursor: pointer;
-  font-family: #cc0000;
+  font-family: #36454f;
   font-weight: 300;
   font-size: 28px;
   letter-spacing: 1px;
@@ -205,7 +205,7 @@ th, td {
 
 .site-description {
   margin: -5px 0 0 0;
-  color: #cc0000;
+  color: #36454f;
   font-size: 16px;
 
   @include mobile {
@@ -216,7 +216,7 @@ th, td {
 nav {
   float: right;
   margin-top: 23px; // @TODO: Vertically middle align
-  font-family: #cc0000;
+  font-family: #36454f;
   font-size: 18px;
 
   @include mobile {
@@ -228,14 +228,14 @@ nav {
 
   a {
     margin-left: 20px;
-    color: #cc0000;
+    color: #36454f;
     text-align: right;
     font-weight: 300;
     letter-spacing: 1px;
 
     @include mobile {
       margin: 0 10px;
-      color: #cc0000;
+      color: #36454f;
     }
   }
 }
