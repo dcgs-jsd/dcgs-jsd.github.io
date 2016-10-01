@@ -126,12 +126,12 @@ th, td {
 }
 
 ::-moz-selection {
-  color: $blue;
+  color: $black;
   background: $lightGray;
 }
 ::selection {
-  color: $blue;
-  background: #000000;
+  color: $blacl;
+  background: #0000ff;
 }
 // Nicolas Gallagher's micro clearfix hack
 // http://nicolasgallagher.com/micro-clearfix-hack/
