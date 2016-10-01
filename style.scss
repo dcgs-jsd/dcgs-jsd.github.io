@@ -33,7 +33,7 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   font-family: $helveticaNeue;
-  color: #7A7A7A;
+  color: #36454f;
   font-weight: bold;
 
   line-height: 1.7;
@@ -70,7 +70,7 @@ p {
 }
 
 a {
-  color: #cc0000;
+  color: #36454f;
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
@@ -122,17 +122,17 @@ th, td {
 
 .date {
   font-style: italic;
-  color: #cc0000;
+  color: #36454f;
 }
 
 // Specify the color of the selection
 ::-moz-selection {
-  color: #cc0000;
- background: linear-gradient(to right,#000000, #cc0000); /* Standard syntax */
+  color: #36454f;
+ background: #36454f; /* Standard syntax */
 }
 ::selection {
-  color: $black;
-  background: #000000;
+  color: $blue;
+  background: ;
 }
 
 // Nicolas Gallagher's micro clearfix hack
