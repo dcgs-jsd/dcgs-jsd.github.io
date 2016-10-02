@@ -16,11 +16,12 @@
 html {
   font-size: 100%;
 }
-
 body {
     background-image: url("http://www.siwallpaperhd.com/wp-content/uploads/2015/08/bamboo_simple_wallpaper.jpg");
-    background-position: right;
+    background-repeat: no-repeat;
+    background-position: right top;
     background-attachment: fixed;
+}
 
   font: 18px/1.4 $helvetica;
   color: #36454f;
