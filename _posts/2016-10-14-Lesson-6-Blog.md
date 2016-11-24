@@ -13,7 +13,7 @@ published: true
     <td>Title</td>
     <td>Lesson 6 Blog</td>
     <td>Date</td>
-    <td>09/09/16</td>
+    <td>3/11/16</td>
   </tr>
 </table>
 
