@@ -28,8 +28,7 @@ published: true
     <td>To have a blog which looks good with a working colour scheme and the blog is written creatively and with style. (From the mark scheme)</td>
   </tr>
   <tr>
-    <td>Did I reach my target? 
-(add details to "Lesson Review")</td>
+    <td>Did I reach my target? </td>
     <td>I think I reached my target to an extent since I am not to sure about the “written with style” bit. </td>
   </tr>
 </table>
